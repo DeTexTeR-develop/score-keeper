@@ -2,6 +2,8 @@
 const PlayerBtn1 = document.querySelector("#plyOneBtn");
 const PlayerBtn2 = document.querySelector("#plyTwoBtn");
 
+let minimum =1;
+
 //selecting Display elements form the page
 const resetBtn = document.querySelector("#resetBtn");
 const playerOneScore = document.querySelector("#playerOneScore");
